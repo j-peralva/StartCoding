@@ -10,7 +10,7 @@ problemas, tanto de maneiras aceitáveis para a disciplina, que servirá para os
 algoritmos acompanhar passo a passo a maneira de se raciocinar durante o desenvolvimento de algorítimos, quanto 
 apresentando recursos do Python.
 
-Todos os _scripts_ aqui apresentados possuíram uma _docstring_ informando se a solução é aceitável ou não para a 
+Todos os _scripts_ aqui apresentados possuírão uma _docstring_ informando se a solução é aceitável ou não para a 
 disciplina, bem como utilizarão o paradigma procedural e, eventualmente, algo do paradigma funcional.
 
 
