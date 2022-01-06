@@ -1,3 +1,9 @@
+"""
+:author 'Jefferson Peralva Machiqueira':
+Link para o vídeo: https://youtu.be/Z7Jo4Ft2HeA
+A solução apresentada atende aos requisitos da disciplina Fundamentos de Programação? Sim
+"""
+
 from math import pi
 
 
