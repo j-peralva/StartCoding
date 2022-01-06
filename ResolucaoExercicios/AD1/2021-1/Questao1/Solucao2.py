@@ -1,6 +1,6 @@
 """
 :author 'Jefferson Peralva Machiqueira':
-Link para o vídeo:
+Link para o vídeo: https://youtu.be/GgZw7qC2FaI
 A solução apresentada atende aos requisitos da disciplina Fundamentos de Programação? Sim
 """
 
